@@ -12,6 +12,7 @@ namespace TestGitHub
         {
             Console.WriteLine("This is first time i getting into the world of github");
             Console.WriteLine("The author has been changed ");
+            Console.WriteLine("测试");
         }
     }
 }
